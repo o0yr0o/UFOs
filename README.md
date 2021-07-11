@@ -20,4 +20,4 @@ One drawback of this webpage is that this webpage is missing a search button, wh
 
 Recommendations for futher development:
 1. Each search bar can display a drop-down menu to tell users what options are available in each search bar.
-2. 
+2. Finding UFO sightings information is the most important function of this webpage, so we need to constantly update sightings information to expand our database.
